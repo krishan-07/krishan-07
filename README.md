@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishan-07&label=Profile%20views&color=0e75b6&style=flat" alt="krishan-07" /> </p>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **react and javascript**
+- 💬 Ask me about **react, javascript and frontend Development**
 
 ###
 
