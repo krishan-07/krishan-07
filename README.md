@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **react, javascript and frontend Development**
+- 💬 Ask me about **react, javascript, full-stack development**
 
-- 🏫 Intermediate frontend developer
+- 🏫 Intermediate full-stack developer
 
 ###
 
